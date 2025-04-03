@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2025-04-03",
+      "codified-date": "2025-03-11",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.15.16"
+      },
+      "publication": "publication/2025-04-03",
+      "repositories": [
+        {
+          "commit": "3adbd6655db53c570f912bef387780c52afbbcc1",
+          "name": "picurispueblo/law-xml"
+        },
+        {
+          "commit": "69ff4731c9a94f864a1773e1a54ff3583f4d57e7",
+          "name": "picurispueblo/law-xml-codified"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "https://law.picurispueblo.org",
+      "html-bulk": "https://github.com/picurispueblo/law-html",
+      "static-assets": "https://github.com/picurispueblo/law-static-assets",
+      "xml-bulk": "https://github.com/picurispueblo/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2025-03-10"
+  }
+}
